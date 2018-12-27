@@ -1,2 +1,2 @@
 # hello-world
-This is demo Hello World repository
+Making web Pretty useful :)
